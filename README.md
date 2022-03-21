@@ -1,6 +1,6 @@
 # Real-Estate-Price-Prediction
 
-This data science project series walks through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. During model building we will cover almost all **data science concepts** such as 
+This data science project series  through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. During model building we will cover almost all **data science concepts** such as 
 
 
 **1.Data loading  :** Loading of datasets into our pandas dataframe
